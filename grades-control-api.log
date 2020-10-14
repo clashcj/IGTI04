@@ -1,0 +1,51 @@
+2020-10-14T17:54:18.696Z [grades-control-api] info: GET /grades
+2020-10-14T18:06:19.236Z [grades-control-api] info: GET /grades/:id
+2020-10-14T18:06:26.789Z [grades-control-api] info: GET /grades/:id
+2020-10-14T18:06:52.974Z [grades-control-api] info: GET /grades/:id
+2020-10-14T18:07:52.478Z [grades-control-api] info: GET /grades
+2020-10-14T18:36:42.054Z [grades-control-api] info: GET /grades
+2020-10-14T18:36:48.497Z [grades-control-api] info: POST /grades - {"id":50,"student":"Gabriel Castilho","type":"Fórum","value":15,"timestamp":"2020-10-14T18:36:48.490Z"}
+2020-10-14T18:37:49.243Z [grades-control-api] info: GET /grades
+2020-10-14T18:38:03.942Z [grades-control-api] info: DELETE /grades/:id - 50
+2020-10-14T18:38:34.132Z [grades-control-api] info: POST /grades - {"id":51,"student":"Gabriel Castilho","type":"Fórum","value":15,"timestamp":"2020-10-14T18:38:34.119Z"}
+2020-10-14T18:38:41.540Z [grades-control-api] info: GET /grades
+2020-10-14T18:39:27.999Z [grades-control-api] info: DELETE /grades/:id - 51
+2020-10-14T18:39:32.736Z [grades-control-api] info: POST /grades - {"id":52,"student":"Gabriel Castilho","subject":"04 - MongoDB","type":"Fórum","value":15,"timestamp":"2020-10-14T18:39:32.729Z"}
+2020-10-14T18:39:40.667Z [grades-control-api] info: GET /grades/:id
+2020-10-14T18:39:43.758Z [grades-control-api] info: GET /grades/:id
+2020-10-14T18:40:03.253Z [grades-control-api] info: PUT /grade - {"id":52,"student":"Gabriel Castilho","subject":"04 - MongoDB","type":"Fórum","value":10}
+2020-10-14T18:40:07.932Z [grades-control-api] info: GET /grades/:id
+2020-10-14T18:45:18.713Z [grades-control-api] info: GET /grades
+2020-10-14T18:45:25.609Z [grades-control-api] info: GET /grades/:id
+2020-10-14T18:46:12.210Z [grades-control-api] info: GET /grades/:id
+2020-10-14T18:46:28.531Z [grades-control-api] info: GET /grades/:id
+2020-10-14T18:47:37.747Z [grades-control-api] info: GET /grades/:id
+2020-10-14T18:50:58.844Z [grades-control-api] info: GET /grades/total
+2020-10-14T18:54:27.984Z [grades-control-api] info: GET /grades/total
+2020-10-14T18:57:44.098Z [grades-control-api] info: GET /grades/total/:student/:subject
+2020-10-14T18:58:19.086Z [grades-control-api] info: GET /grades/total/:student/:subject
+2020-10-14T18:58:55.081Z [grades-control-api] info: GET /grades/total/:student/:subject
+2020-10-14T18:59:14.379Z [grades-control-api] info: GET /grades/total/:student/:subject
+2020-10-14T18:59:22.201Z [grades-control-api] info: GET /grades/total/:student/:subject
+2020-10-14T18:59:58.575Z [grades-control-api] info: GET /grades/total/:student/:subject
+2020-10-14T19:00:13.083Z [grades-control-api] info: GET /grades/total/:student/:subject
+2020-10-14T19:00:27.669Z [grades-control-api] info: GET /grades/total/:student/:subject
+2020-10-14T19:00:48.644Z [grades-control-api] info: GET /grades/total/:student/:subject
+2020-10-14T19:03:17.327Z [grades-control-api] info: GET /mean/:subject/:type
+2020-10-14T19:04:52.376Z [grades-control-api] info: GET /mean/:subject/:type
+2020-10-14T19:12:24.502Z [grades-control-api] info: GET /grades/topThree/:subject/:type
+2020-10-14T19:13:13.722Z [grades-control-api] info: GET /grades/topThree/:subject/:type
+2020-10-14T19:13:21.833Z [grades-control-api] info: GET /grades/topThree/:subject/:type
+2020-10-14T19:13:42.433Z [grades-control-api] info: GET /grades/topThree/:subject/:type
+2020-10-14T19:17:04.393Z [grades-control-api] info: GET /grades/topThree/:subject/:type
+2020-10-14T19:17:45.140Z [grades-control-api] info: GET /grades/mean/:subject/:type
+2020-10-14T19:18:11.029Z [grades-control-api] info: GET /grades/total/:student/:subject
+2020-10-14T19:19:13.811Z [grades-control-api] info: POST /grades - {"id":49,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-10-14T19:19:13.804Z"}
+2020-10-14T19:19:50.939Z [grades-control-api] info: GET /grades/total/:student/:subject
+2020-10-14T19:20:49.458Z [grades-control-api] info: GET /grades/:id
+2020-10-14T19:21:27.779Z [grades-control-api] info: PUT /grade - {"id":33,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Desafio","value":15}
+2020-10-14T19:21:31.782Z [grades-control-api] info: GET /grades/:id
+2020-10-14T19:21:51.107Z [grades-control-api] info: GET /grades/mean/:subject/:type
+2020-10-14T19:22:11.943Z [grades-control-api] info: DELETE /grades/:id - 32
+2020-10-14T19:22:37.476Z [grades-control-api] info: GET /grades/mean/:subject/:type
+2020-10-14T19:23:11.306Z [grades-control-api] info: GET /grades/:id

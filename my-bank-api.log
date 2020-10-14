@@ -1,0 +1,106 @@
+2020-10-14T13:47:23.334Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T13:48:15.912Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T13:48:26.297Z [my-bank-api] error: GET /account ENOENT: no such file or directory, open 'E:\igti\IGTI04\accounts.json'
+2020-10-14T13:48:43.812Z [my-bank-api] info: API Started and File Created
+2020-10-14T13:49:15.422Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T13:49:39.413Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T13:50:31.147Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T13:50:57.566Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T13:51:08.575Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T13:51:14.599Z [my-bank-api] info: GET /account
+2020-10-14T13:51:20.670Z [my-bank-api] info: POST /account - {"id":1,"name":"João Silva","balance":500}
+2020-10-14T13:51:24.886Z [my-bank-api] info: GET /account/:id
+2020-10-14T13:56:36.081Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T13:57:14.778Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T13:58:56.986Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T13:59:01.067Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T13:59:36.164Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T14:00:24.293Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T14:00:37.341Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T14:00:45.918Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T14:01:29.818Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T14:01:58.915Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T14:05:10.824Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T14:05:14.261Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T14:05:32.889Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T14:14:36.412Z [my-bank-api] info: GET /account/:id
+2020-10-14T14:14:45.625Z [my-bank-api] error: POST /account Name e Balance são obrigatórios.
+2020-10-14T17:10:11.786Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T17:11:39.466Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T17:11:57.422Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T17:12:19.140Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T17:15:15.683Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T17:15:21.791Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T17:15:28.960Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T17:15:46.385Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T17:16:35.771Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T17:17:20.201Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T17:17:37.132Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T17:18:00.164Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T17:18:40.558Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T17:19:30.482Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T17:19:48.165Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T17:34:01.883Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T17:35:24.243Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T17:41:41.585Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T17:41:52.694Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T17:43:33.576Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T17:44:26.094Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T17:49:59.752Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T17:50:03.659Z [my-bank-api] info: GET /grades
+2020-10-14T17:50:48.127Z [my-bank-api] info: POST /grades - {"id":49,"student":"Gabriel Castilho","type":"Fórum","value":15,"timestamp":"2020-10-14T17:50:48.120Z"}
+2020-10-14T17:50:52.386Z [my-bank-api] info: GET /grades
+2020-10-14T17:53:38.999Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T17:53:50.193Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:04:49.123Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:06:03.298Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:06:17.591Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:07:26.950Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:07:47.166Z [my-bank-api] info: DELETE /grades/:id - 49
+2020-10-14T18:07:59.054Z [my-bank-api] info: DELETE /grades/:id - 49
+2020-10-14T18:32:52.882Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:34:16.915Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:35:09.396Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:35:38.043Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:36:11.150Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:39:22.744Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:42:22.451Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:42:41.448Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:43:35.417Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:44:12.571Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:45:41.137Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:46:25.472Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:48:46.305Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:50:19.002Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:50:44.819Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:50:52.519Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:52:40.467Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:53:13.692Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:54:00.971Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:55:10.529Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:55:18.056Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:57:26.722Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:57:40.031Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:58:03.901Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:58:15.835Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:58:52.863Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:59:13.064Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:59:20.437Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:59:30.525Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T18:59:56.524Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T19:00:11.107Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T19:00:25.577Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T19:00:40.039Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T19:00:44.915Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T19:02:12.114Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T19:02:20.894Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T19:02:27.852Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T19:04:18.225Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T19:04:25.038Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T19:04:28.578Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T19:07:01.348Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T19:07:37.127Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T19:13:10.636Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T19:13:20.217Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T19:13:32.818Z [my-bank-api] info: API Started on port: 3000
+2020-10-14T19:15:54.631Z [my-bank-api] info: API Started on port: 3000
